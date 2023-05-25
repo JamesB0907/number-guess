@@ -1,0 +1,16 @@
+C:\Users\James AKA BOSSMAN\workspace\numberguess\bin\Debug\net5.0\numberGuessProject.exe
+C:\Users\James AKA BOSSMAN\workspace\numberguess\bin\Debug\net5.0\numberGuessProject.deps.json
+C:\Users\James AKA BOSSMAN\workspace\numberguess\bin\Debug\net5.0\numberGuessProject.runtimeconfig.json
+C:\Users\James AKA BOSSMAN\workspace\numberguess\bin\Debug\net5.0\numberGuessProject.runtimeconfig.dev.json
+C:\Users\James AKA BOSSMAN\workspace\numberguess\bin\Debug\net5.0\numberGuessProject.dll
+C:\Users\James AKA BOSSMAN\workspace\numberguess\bin\Debug\net5.0\numberGuessProject.pdb
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.csproj.AssemblyReference.cache
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.AssemblyInfoInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.AssemblyInfo.cs
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.csproj.CoreCompileInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.dll
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\refint\numberGuessProject.dll
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.pdb
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\numberGuessProject.genruntimeconfig.cache
+C:\Users\James AKA BOSSMAN\workspace\numberguess\obj\Debug\net5.0\ref\numberGuessProject.dll

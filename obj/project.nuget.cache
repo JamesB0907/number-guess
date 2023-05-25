@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUZn3sziZFRFKbtDJ60sTab6LwW4nMjF/oVhpi7U0YZYROw2DwvW9OF8nTB0nrODUWKFTxR6Sj9tU/5V4Xi45Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James AKA BOSSMAN\\workspace\\numberguess\\numberGuessProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James AKA BOSSMAN\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\James AKA BOSSMAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\James AKA BOSSMAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\James AKA BOSSMAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
